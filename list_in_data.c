@@ -1,3 +1,6 @@
+/*
+   Linked list in data
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
